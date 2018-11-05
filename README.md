@@ -1,5 +1,7 @@
 # ZJUSCT Blog
 
+<img align="right" width="159px" src="https://raw.githubusercontent.com/fish98/fish98.github.io/master/2018/05/17/stack/thumbnail.png">
+
 Welcome Anyone Folk and Develop This Project
 
 ## Clone & Development
