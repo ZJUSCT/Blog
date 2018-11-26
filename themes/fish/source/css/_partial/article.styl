@@ -75,23 +75,23 @@
 .article-category-link:hover
   color: color-theme
   
-.article-views
+.article-author
   @extend $block-caption
   text-align: center
   font-weight: normal
 
-.article-views:before
+.article-author:before
   font-family: "FontAwesome";
   content: "\f06e";
   @media mq-mobile
     display: none
 
-.article-views:hover
+.article-author:hover
   color: color-theme
 
 .article-date,
 .article-category-link,
-.article-views,
+.article-author,
 .archive-year,
 .archive-tag,
 .archive-category,
@@ -141,7 +141,7 @@
   margin: 0 article-padding
   @media mq-mobile
     margin: 0
-  p, table
+  p, table, li
     font-size: 18px
     line-height: line-height
     margin: line-height 0
@@ -187,7 +187,7 @@
     border-left: 2px solid color-theme
     background: rgba(208,211,248,0.15)
     p
-      font-size: font-size
+      font-size: 18px
       margin: 15px 0;
     footer
       font-size: font-size

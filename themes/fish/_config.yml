@@ -147,7 +147,7 @@ cnzz_siteid:
 
 # busuanzi count
 # http://busuanzi.ibruce.info/
-show_busuanzi_view_counts: true
+show_busuanzi_view_counts: false
 
 
 # donation button
