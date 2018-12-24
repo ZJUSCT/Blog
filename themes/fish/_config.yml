@@ -157,3 +157,6 @@ donate:
 # post copyright
 copyright:
     enable: true
+
+mathjax:
+    enable: true
