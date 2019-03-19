@@ -2,7 +2,7 @@
 body{
 	width:100%;
 	height:100%;
-	padding: 0; 
+	padding: 0;
 	margin: 0;
 }
 
@@ -89,7 +89,7 @@ html{
     transition: background 2s;
 }
 .navigater-list{
-	font-family: "Microsoft YaHei","微软雅黑",Arial,simsun,"宋体";
+	font-family: "Microsoft YaHei","微软雅黑","PingFang SC",Arial,simsun,"宋体";
 	color:#444444;
 	font-weight: 100;
 	font-size: 1.2em;
@@ -112,14 +112,14 @@ html{
 	-o-background-size: cover;
 }
 
-.blur{	
+.blur{
     filter: url(blur.svg#blur); /* FireFox, Chrome, Opera */
-    
+
     -webkit-filter: blur(5px); /* Chrome, Opera */
        -moz-filter: blur(5px);
-        -ms-filter: blur(5px);    
+        -ms-filter: blur(5px);
             filter: blur(5px);
-    
+
     filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=5, MakeShadow=false); /* IE6~IE9 */
 }
 
@@ -149,7 +149,7 @@ html{
 	letter-spacing: 9px;
 	text-transform: uppercase;
 }
-    
+
 .thumb{
 	display: block;
     height: auto;
@@ -166,13 +166,13 @@ html{
 	opacity: 0.95;
 }
 .image{
-	height: 200px; 
-	width: auto; 
+	height: 200px;
+	width: auto;
 	overflow: hidden;
 }
 .image>img{
-	height: 100%; 
-	width: 100%; 
+	height: 100%;
+	width: 100%;
 	display: block;
 }
 
