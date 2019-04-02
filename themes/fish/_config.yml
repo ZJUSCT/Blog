@@ -18,7 +18,7 @@ since: 2014
 keywords: ""
 
 # Put your favicon.ico or avatar.jpg into `hexo-site/themes/hiker/source/` directory.
-avatar: 
+avatar:
   enable: true
   border: true
   width: 124
@@ -34,7 +34,7 @@ home_background_image:
   enable: true
   mode: image
   rolling: true
-  url: [css/images/computer.jpg, css/images/computer2.jpg, css/images/computer3.jpg, css/images/prize3.png, css/images/prize4.jpg]
+  url: [css/images/computer.jpg, css/images/computer2.jpg, css/images/computer3.jpg, css/images/computer4.jpg, css/images/computer5.jpg, css/images/prize.jpg, css/images/prize2.jpg]
 
 home_logo_image:
   enable: false
@@ -42,7 +42,7 @@ home_logo_image:
   url: css/images/mylogo.jpg
 
 # AboutPage background
-about_big_image: [css/images/computer.jpg, css/images/computer2.jpg, css/images/prize3.png, css/images/prize4.jpg]
+about_big_image: [css/images/computer.jpg, css/images/computer2.jpg, css/images/prize.jpg, css/images/prize2.jpg]
 
 
 # Archive pagination
@@ -76,13 +76,13 @@ widgets:
 # Value is the target link (E.g. GitHub: https://github.com/iTimeTraveler)
 social:
   Github: https://github.com/ZJUSCT
-  Weibo: 
-  Twitter: 
-  Facebook: 
-  Google-plus: 
-  Instagram: 
-  Pinterest: 
-  Flickr: 
+  Weibo:
+  Twitter:
+  Facebook:
+  Google-plus:
+  Instagram:
+  Pinterest:
+  Flickr:
   email: jiongchiyu@zju.edu.cn
 
 
@@ -95,11 +95,11 @@ search:
 
 # comment ShortName, you can choose only ONE to display.
 gentie_productKey: #your-gentie-product-key
-duoshuo_shortname: 
-disqus_shortname: 
-livere_shortname: 
-uyan_uid: 
-wumii: 
+duoshuo_shortname:
+disqus_shortname:
+livere_shortname:
+uyan_uid:
+wumii:
 
 
 # Code Highlight theme
@@ -143,7 +143,7 @@ fb_admins:
 fb_app_id:
 
 # CNZZ count
-cnzz_siteid: 
+cnzz_siteid:
 
 # busuanzi count
 # http://busuanzi.ibruce.info/
@@ -153,7 +153,7 @@ show_busuanzi_view_counts: false
 # donation button
 donate:
     enable: false
- 
+
 # post copyright
 copyright:
     enable: true
