@@ -4,7 +4,7 @@
 
 # Site
 title: 浙江大学超算队
-subtitle: 浙江大学超算队
+subtitle: Zhejiang University Supercomputer Team
 description: Official Blog Of ZJUSCT
 keywords:
 author: ZJUSCT
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com/
+url: http://clusters.zju.edu.cn/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -72,6 +72,8 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+Plugins:
+- hexo-generator-json-content
 ## Themes: https://hexo.io/themes/
 theme: fish
 
