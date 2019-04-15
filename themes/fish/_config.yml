@@ -160,3 +160,14 @@ copyright:
 
 mathjax:
     enable: true
+
+valine:
+  enable: true
+  app_id: vzkq3TwdOhGcrpi7lsHAoz97-gzGzoHsz
+  app_key: St7KQEXXD6TapeMcRL7mjd2d
+  notify: false   #邮件提醒设置
+  verify: false   #验证码设置
+  placeholder: ヾﾉ≧∀≦)o快来评论一下吧!
+  avatar: monsterid  #头像设置
+  pageSize: 10
+  visitor: true
